@@ -1,2 +1,2 @@
 # project 1
-this is my project on github
+this is my first project on github
